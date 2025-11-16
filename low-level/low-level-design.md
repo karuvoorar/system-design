@@ -19,6 +19,8 @@
 - Implement a feature when you need them
 - Simplified codebase, Faster development
 
+---
+
 ## SOLID Principles
 
 ### Single Responsibility Principle [SRP]
