@@ -52,3 +52,4 @@
 - Depend on abstractions, not concrete classes.
 - Like example of JPA, though the underlying databases change the abstraction will remain without any changes
 
+---
